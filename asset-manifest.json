@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a8ab7cc.css",
+    "main.js": "/static/js/main.c00bb5ff.js",
+    "static/media/Inter-Medium.woff?v=3.19": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2?v=3.19": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/evgeniy-moskvin.jpg": "/static/media/evgeniy-moskvin.94bd31aa40ef3b1f2bfa.jpg",
+    "static/media/praktikum-promo.svg": "/static/media/praktikum-promo.0b0563459964b6034a50.svg",
+    "static/media/logo.svg": "/static/media/logo.e59d7a9ce438ccd0e720a55b548ed42a.svg",
+    "index.html": "/index.html",
+    "static/media/like.svg": "/static/media/like.f9ab93eab4d79c5d2584.svg",
+    "static/media/profile-icon.svg": "/static/media/profile-icon.38c3ab6ec8a8c3c4bbf6.svg",
+    "static/media/like-active.svg": "/static/media/like-active.46d533777a211db6df5b.svg",
+    "static/media/delete.svg": "/static/media/delete.3c9c145c883f99a3e593.svg",
+    "static/media/find.svg": "/static/media/find.f117383ecf23b7597aba.svg",
+    "static/media/menu-close.svg": "/static/media/menu-close.a8b42e1d70b8d47820c6.svg",
+    "static/media/menu-burger.svg": "/static/media/menu-burger.b6be39c57225a541f70b.svg",
+    "main.8a8ab7cc.css.map": "/static/css/main.8a8ab7cc.css.map",
+    "main.c00bb5ff.js.map": "/static/js/main.c00bb5ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a8ab7cc.css",
+    "static/js/main.c00bb5ff.js"
+  ]
+}
